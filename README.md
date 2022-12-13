@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utsav Joshi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshiutsav&label=Profile%20views&color=0e75b6&style=flat" alt="joshiutsav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshiutsav" alt="joshiutsav" /></a> </p>
 
 - 🌱 I’m currently learning **Backend**
 
@@ -23,3 +21,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshiutsav&show_icons=true&locale=en&layout=compact" alt="joshiutsav" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshiutsav&show_icons=true&locale=en" alt="joshiutsav" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshiutsav" alt="joshiutsav" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshiutsav&label=Profile%20views&color=0e75b6&style=flat" alt="joshiutsav" /> </p>
