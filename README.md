@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, Java**
 
-- 👨‍💻 All of my projects are available at [https://utsav-joshi.netlify.app/](https://utsav-joshi.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://utsav-joshi.netlify.app/project](https://utsav-joshi.netlify.app/project)
 
 - 💬 Ask me about **javascript**
 
