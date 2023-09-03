@@ -25,8 +25,8 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://twitter.com/@utsavjo42586454" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@utsavjo42586454" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/joshi-utsav/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/joshi-utsav/" height="30" width="40" /></a>
+  <a href="https://twitter.com/@utsavjo42586454" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twi" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/joshi-utsav/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20730310/utsav-joshi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20730310/utsav-joshi" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/https://www.hackerrank.com/utsavjoshi602" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/utsavjoshi602" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/https://codeforces.com/profile/utsavjoshi" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/utsavjoshi" height="30" width="40" /></a>
