@@ -12,7 +12,6 @@
 </p>
 
 <div align="center">
-  <h2>🔭 I’m currently working on <a href="https://utsav-joshi.netlify.app/">My Portfolio</a></h2>
   <h2>🌱 I’m currently learning React, Java</h2>
 </div>
 
