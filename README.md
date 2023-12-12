@@ -13,7 +13,8 @@
 
 - 👯 I’m looking to collaborate on **I'm open to collaborating on open-source projects, particularly those written in Typescript and JavaScript. Feel free to reach out if you have an exciting open-source initiative!**
 
-- 🤝 I’m looking for help with ****Front-end Development:** Seeking guidance on improving the user interface and user experience of my web projects.**Open Source Contributions:** Looking for mentorship and collaboration on contributing to open source projects.**
+- 🤝 I’m looking for help with ****Front-end Development:** Seeking guidance on improving the user interface and user experience of my web projects.
+- **Open Source Contributions:** Looking for mentorship and collaboration on contributing to open source projects.**
 
 - 👨‍💻 All of my projects are available at [https://utsav-joshi.netlify.app/](https://utsav-joshi.netlify.app/)
 
