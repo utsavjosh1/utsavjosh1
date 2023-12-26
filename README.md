@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/utsavjo42586454" target="blank"><img src="https://img.shields.io/twitter/follow/utsavjo42586454?logo=twitter&style=for-the-badge" alt="utsavjo42586454" /></a> </p>
 
-- 🔭 I’m currently working on **Todo App**
+- 🔭 I’m currently working on **Apnacollege**
 
 - 🌱 I’m currently learning **React, Typescript**
 
