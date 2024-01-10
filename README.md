@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utsav Joshi</h1>
 <h3 align="center">Frontend Developer: Building User-friendly and Responsive Websites and Web Applications!</h3>
 
-- 🔭 I’m currently working on **Apnacollege-clone**
+- 🔭 I’m currently working on **apnacollege-clone**
 
 - 🌱 I’m currently learning **React, Typescript**
 
