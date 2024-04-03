@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **joshiutsav56@gmail.com**
 
-- ⚡ Fun fact **HTML is NOT a programming language 😂**
+- ⚡ Fun fact **HTML is not a programming language 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
