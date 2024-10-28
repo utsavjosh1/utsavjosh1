@@ -1,11 +1,8 @@
 ### Hi there, I'm Utsav Joshi 👋
 
-🔭 I’m a **full-stack developer (MERN stack)** with proficiency in **TypeScript, Docker, and SQL**. I’m currently contributing to open-source projects and always **open to freelance opportunities**.
-
-🌱 As a **backend developer**, I focus on building scalable, efficient solutions.
+I'm a **full-stack developer** specializing in **backend**—the brain of applications. I contribute to **open-source**, build **scalable solutions**, and am open to **freelance** opportunities.
 
 ### Connect with me:
-
 <p align="left">
   <a href="https://x.com/joshi__utsav" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twt_joshi" height="30" width="40" />
@@ -20,3 +17,6 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joshi___utsav" height="30" width="40" />
   </a>
 </p>
+
+### Contact
+Feel free to reach out for collaborations or inquiries!
