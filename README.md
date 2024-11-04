@@ -12,7 +12,4 @@ Feel free to reach out for collaborations or inquiries!
   <a href="https://www.linkedin.com/in/joshi-utsav" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/LinkedIn_2021.svg" alt="LinkedIn - Utsav Joshi" height="30" width="30" />
   </a>
-  <a href="https://www.instagram.com/joshi___utsav" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram - Utsav Joshi" height="30" width="30" />
-  </a>
 </p>
