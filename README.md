@@ -1,6 +1,6 @@
 ### Hi there, I'm Utsav Joshi 👋
 
-I'm a **full-stack developer** specializing in **backend**—the brain of applications. I contribute to **open-source**, build **scalable solutions**, and am open to **freelance** opportunities.
+I'm a **full-stack developer** specializing in **backend**—the brain of applications. I contribute to **open-source**, build **scalable solutions**, and do **freelance** work.
 
 ## Contact:
 Feel free to reach out for collaborations or inquiries!
