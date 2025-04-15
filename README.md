@@ -4,7 +4,7 @@ Full-stack developer specializing in backend—the brain of applications.
 I contribute to open-source, build scalable solutions, and do freelance work.
 
 ## 🚧 Current Project
-Currently working on **[Learnesst](https://learnesst.vercel.app/)**
+Currently working on **[Learnest](https://learnesst.vercel.app/)**
 
 ## 📬 Get In Touch
 Feel free to reach out for collaborations or inquiries!
