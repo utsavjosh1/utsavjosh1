@@ -1,11 +1,9 @@
-# Utsav Joshi
-
 Full-stack developer with backend expertise. Open-source contributor and freelance developer building scalable solutions. 
 
-## 🚧 Current Project
+## 🚧 Working on
 Currently working on **[Learnest](https://learnesst.vercel.app/)**
 
-## 📬 Get In Touch
+## 📬 Work with me
 Feel free to reach out for collaborations or inquiries!
 
 <p align="left">
