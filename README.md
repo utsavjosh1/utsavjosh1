@@ -1,16 +1,20 @@
-Full-stack developer with backend expertise. Open-source contributor and freelance developer building scalable solutions. 
+# 👋 Hey, I'm Utsav
 
-## 🚧 Working on
-Currently working on **[Learnest](https://learnesst.vercel.app/)**
+### Full-stack developer with a backend edge
+I build scalable products, contribute to open source, and collaborate with teams to solve real-world problems.
 
-## 📬 Work with me
-Feel free to reach out for collaborations or inquiries!
+---
+
+## 🚧 Currently Building  
+🎓 **[Learnest](https://learnesst.vercel.app/)** — AI-powered learning platform for modern education.
+
+---
+
+## 🤝 Work with Me  
+Open to freelance projects, collaborations, and open-source contributions.
 
 <p align="left">
-  <a href="https://x.com/joshi__utsav" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter - Utsav Joshi" />
-  </a>
-  <a href="https://www.linkedin.com/in/joshi-utsav" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn - Utsav Joshi" />
-  </a>
+  <a href="mailto:hi@joshiutsav.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"/></a>
+  <a href="https://x.com/joshi__utsav"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" height="30" alt="twitter logo"/></a>
+  <a href="https://www.linkedin.com/in/joshi-utsav"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="30" alt="linkedin logo"/></a>
 </p>
