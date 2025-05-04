@@ -3,12 +3,10 @@
 ### Full-stack developer with a backend edge
 I build scalable products, contribute to open source, and collaborate with teams to solve real-world problems.
 
----
 
 ## 🚧 Currently Building  
 🎓 **[Learnest](https://learnesst.vercel.app/)** — AI-powered learning platform for modern education.
 
----
 
 ## 🤝 Work with Me  
 Open to freelance projects, collaborations, and open-source contributions.
