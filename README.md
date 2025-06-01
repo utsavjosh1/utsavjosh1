@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Utsav
 
-### Full-stack developer with a backend edge
-I build scalable products, contribute to open source, and collaborate with teams to solve real-world problems.
+### Full-stack developer with a backend.
+Writing code, drinking coffee, and figuring out bugs one commit at a time.
 
 
 ## 🚧 Currently Building  
