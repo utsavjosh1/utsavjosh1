@@ -4,4 +4,4 @@
 
 🚀 Building [Learnest](https://www.learnest.asia) – AI-powered LMS
 💼 Open to freelance & collaborations
-📫 [joshiutsav.com](https://wwww.joshiutsav.com)
+📫 [joshiutsav](https://www.joshiutsav.com)
