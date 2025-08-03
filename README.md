@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Utsav
 
-**Full-Stack Developer** | Code, music & clean commits.
+**Software engineer** | Code, music & clean commits.
 
-🚀 Building [Learnest](https://www.learnest.asia) – AI-powered LMS
+🚀 Building [Postly](https://postly-phi.vercel.app/) – AI-powered CMS
 💼 Open to freelance & collaborations
 📫 [joshiutsav](https://www.joshiutsav.com)
