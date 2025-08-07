@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Utsav
 
-**Software engineer** | Code, music & clean commits.
+**Software Engineer** | Passionate about code, music, and clean commits.
 
-🚀 Building [Postly](https://postly-phi.vercel.app/) – AI-powered CMS
-💼 Open to freelance & collaborations
-📫 [joshiutsav](https://www.joshiutsav.com)
+🚀 Currently building [Postly](https://postly-phi.vercel.app/) – a smart platform that matches you with jobs based on your resume.  
+💼 Open to freelance projects and creative collaborations  
+📫 Reach me at [joshiutsav.com](https://www.joshiutsav.com)
