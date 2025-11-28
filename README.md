@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Utsav
 
-**Software Engineer** | Crafting clean code, clean commits & creative products.
+**Software Engineer**
 
-🚀 Building [Postly](https://postly-phi.vercel.app/) — an AI-powered job matching platform  
-💼 Open to freelance work & innovative collaborations  
-📫 Reach out: [hi@joshiutsav.com](mailto:hi@joshiutsav.com) • [joshiutsav](https://www.joshiutsav.com/contact)
+- 🚀 Building **[Learnest](https://learnest.asia/)** — SaaS LMS application
+- 💼 Open for freelance work  
+- 📫 [hi@joshiutsav.com](mailto:hi@joshiutsav.com) • [Contact](https://www.joshiutsav.com/contact)
