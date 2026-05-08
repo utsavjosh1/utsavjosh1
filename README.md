@@ -2,6 +2,5 @@
 
 **Software Engineer**
 
-- 🚀 Building **[Learnest](https://learnest.asia/)** — SaaS LMS application
+- 🚀 Building **[Learnest](https://learnest.asia/)**
 - 💼 Open for freelance work  
-- 📫 [hi@joshiutsav.com](mailto:hi@joshiutsav.com) • [Contact](https://utsavjoshi.vercel.app/contact)
